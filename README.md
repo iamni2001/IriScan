@@ -137,10 +137,6 @@ O dataset Iris é altamente estruturado e possui classes bem separadas, o que fa
 
 ### Modelos com Imagens
 
-A abordagem utilizando CNNs apresentou:
-
-**Mais de 98% de acurácia**
-
 Também foram utilizadas técnicas de **Data Augmentation**, como:
 
 - Rotação
